@@ -1,44 +1,103 @@
-item_key,name,qty,category,notes,source,target_url,custom_label,custom_url
-m3-nylon-standoffs,M3 Nylon Standoffs,4,Assortment Boxes,PCB mounting,amazon,,,
-socket-button-head-screw,Socket Button Head Screw,1,Assortment Boxes,M2-M3 x 2510pcs,amazon,,,
-socket-head-cap-screw,Socket head cap Screw,1,Assortment Boxes,2500pcs M2M2.5M3,amazon,,,
-socket-head-cap-screw-2,Socket head cap Screw,1,Assortment Boxes,1410pcs M3M4M5,amazon,,,
-countersunk-socket-head-cap-screw,Countersunk Socket Head Cap Screw,1,Assortment Boxes,"3045pcs - M2, M3, M4, M5, M6, M8",amazon,,,
-heat-insert-with-press,Heat Insert (with press),1,Assortment Boxes,1040pcs - M2-M4,amazon,,,
-heat-inserts,Heat Inserts,1,Assortment Boxes,1400pcs - M2-M4,amazon,,,
-lock-nut,Lock Nut,1,Assortment Boxes,"230pcs M3,M4,M5,M6,M8",amazon,,,
-custom-pcb,Custom PCB,1,Electrical Components,2-layer PCB (Order with assembly!),other,,Order PCB HERE,https://www.pcbway.com/project/shareproject/HexaPod_PCB_70d645d7.html
-stm32h750vbt6-core-board,STM32H750VBT6 Core Board,1,Electrical Components,Alternative to WeAct Studio - Note: QSPI Flash (at least 8MB / 64Mbit),amazon,,,
-weact-studio-stm32h750,WeAct Studio STM32H750,1,Electrical Components,Official main card (expensive),other,,,
-lx-224-serial-bus-servo-motor,LX-224 Serial Bus Servo Motor,18,Electrical Components,20kg·cm torque minimum,amazon,,,
-imu-gyroscope-module,IMU/Gyroscope Module,1,Electrical Components,"6-axis (3-axis gyro + 3-axis accelerometer), I2C, DMP, 3.3V-5V",amazon,,,
-spektrum-dx6e-transmitter,Spektrum DX6e Transmitter,1,Electrical Components,Spektrum DX6e,amazon,,,
-remote-reciever,Remote Reciever,1,Electrical Components,Frsky X8R,amazon,,,
-lipo-battery-7-4v-5200mah,LiPo Battery 7.4v 5200mAh,1,Electrical Components,"2S LiPo, high discharge rate for RC models",amazon,,,
-5v-ldo,5v LDO,1,Electrical Components,"78D05AL-TN3-R - For 5V components (receiver, etc.)",amazon,,,
-3-3v-voltage-regulator,3.3v Voltage Regulator,1,Electrical Components,3.3v LDO for MCU power supply,amazon,,,
-misc,Misc,1,Electrical Components,,other,,,
-ferrules,Ferrules,1,Electrical Components,"Optional, if used need approx 20 across robot",amazon,,,
-capacitor-1uf,Capacitor 1uF,2,Electrical Components,Input/output filtering for LDO,amazon,,,
-10k-resistor,10kΩ Resistor,1,Electrical Components,CRGCQ0805F10K,amazon,,,
-heat-shrink,Heat Shrink,1,Electrical Components,"Only small amount required, for covering exposed solid-core wires",amazon,,,
-power-delivery-wire,Power Delivery Wire,1,Electrical Components,"Minimum 12AWG, for wires expected to carry current above 2A and/or voltage above 5V",amazon,,,
-connection-wire,Connection Wire,1,Electrical Components,"19-30AWG, recommend solid core, used for all other wires",amazon,,,
-pc-asa-abs-petg-filament,PC / ASA / ABS / PETG Filament,1,Filament,,amazon,,,
-pc-cf-petg-cf-pa-cf-abs-engineering-grade-filaments,PC-CF / PETG-CF / PA-CF / ABS+ (Engineering Grade Filaments),1,Filament,,amazon,,,
-pla,PLA,1,Filament,,amazon,,,
-tpu,TPU,1,Filament,,amazon,,,
-multimeter-fluke,Multimeter - Fluke,1,Tools,(Recommended),amazon,,,
-soldering-iron-ts101,Soldering Iron TS101,1,Tools,(Recommended),amazon,,,
-heat-inset-tip-kit-for-ts101,Heat Inset Tip Kit - For TS101,1,Tools,(Recommended),amazon,,,
-electric-precision-screwdriver,Electric Precision Screwdriver,1,Tools,(Recommended),amazon,,,
-allen-key-set,Allen Key Set,1,Tools,(Recommended),amazon,,,
-torx-key-set,Torx Key Set,1,Tools,(Recommended),amazon,,,
-torque-screwdriver,Torque Screwdriver,1,Tools,(Recommended),amazon,,,
-wire-stripper,Wire stripper,1,Tools,(Recommended),amazon,,,
-wire-cutter,Wire cutter,1,Tools,(Recommended),amazon,,,
-heat-insert-press-tool,Heat Insert Press Tool,1,Tools,(Recommended),amazon,,,
-crimp-tool,Crimp Tool,1,Tools,(Recommended),amazon,,,
-soldering-iron-generic-alternative,Soldering Iron - Generic  (Alternative),1,Tools,Budget friendly alternative,amazon,,,
-heat-insert-tip-set-alternative,Heat insert tip - set   (Alternative),1,Tools,Budget friendly alternative,amazon,,,
-precision-screwdriver-set,Precision Screwdriver Set,1,Tools,Budget friendly alternative,amazon,,,
+category,item_key,name,qty,notes,aliexpress_url,amazon_url,pcbway_url,other_urls,all_urls
+Leg Linkage Mechanism,servo-motors,Servo Motors,12,"180 degrees, 35kg (Approx 49.5x20,2x40mm)",https://s.click.aliexpress.com/e/_c3oYCwzH,https://geni.us/niJrcJn,,,https://s.click.aliexpress.com/e/_c3oYCwzH | https://geni.us/niJrcJn
+Leg Linkage Mechanism,raspberry-pi-4-model-b,Raspberry Pi 4 Model B,1,8gb Ram,https://s.click.aliexpress.com/e/_c3vHe6u7,https://geni.us/j51XYY,,,https://s.click.aliexpress.com/e/_c3vHe6u7 | https://geni.us/j51XYY
+Leg Linkage Mechanism,lipo-battery,LiPo Battery,1,4000mAh 4S 45~90C Lipo Pack w/XT-90 (You can change to the XT-90 connect later),https://s.click.aliexpress.com/e/_c3RFa1Cf,https://geni.us/4H2lJ,,,https://s.click.aliexpress.com/e/_c3RFa1Cf | https://geni.us/4H2lJ
+Leg Linkage Mechanism,imu,IMU,1,Integrated Measuring Unit,https://s.click.aliexpress.com/e/_c3RY5ql9,https://geni.us/GV5tKTw,,https://core-electronics.com.au/speaker-pcb-mount.html,https://s.click.aliexpress.com/e/_c3RY5ql9 | https://geni.us/GV5tKTw | https://core-electronics.com.au/speaker-pcb-mount.html
+Leg Linkage Mechanism,raspberry-pi-breakout-board,Raspberry Pi Breakout Board,1,Made by Dfrobot,https://s.click.aliexpress.com/e/_c3qH7iyL,https://geni.us/MbTbrQP,,,https://s.click.aliexpress.com/e/_c3qH7iyL | https://geni.us/MbTbrQP
+Leg Linkage Mechanism,fan,Fan,2,,https://s.click.aliexpress.com/e/_c2yKau2J,https://geni.us/bTXZ0,,,https://s.click.aliexpress.com/e/_c2yKau2J | https://geni.us/bTXZ0
+Leg Linkage Mechanism,servo-driver-pca9685,Servo Driver PCA9685,1,"To control servo motors, via I2C interface",https://s.click.aliexpress.com/e/_c4WSVNR5,https://geni.us/AAHBTxq,,,https://s.click.aliexpress.com/e/_c4WSVNR5 | https://geni.us/AAHBTxq
+Leg Linkage Mechanism,arduino-nano,Arduino Nano,1,"For IMU, Battery sensing, LCD screen",https://s.click.aliexpress.com/e/_c4lOubMf,https://geni.us/aKQfQgw,,,https://s.click.aliexpress.com/e/_c4lOubMf | https://geni.us/aKQfQgw
+Leg Linkage Mechanism,dc-to-dc-buck-converter-20a,DC to DC (Buck) converter 20A,1,"Adjustable, set to ~7V in Dingo",https://s.click.aliexpress.com/e/_c2xxpYsF,https://geni.us/TxDhP,,,https://s.click.aliexpress.com/e/_c2xxpYsF | https://geni.us/TxDhP
+Leg Linkage Mechanism,power-distribution-pcb,Power Distribution PCB,1,Cost estimated using GreenPCB quote system (2 boards),,,,,
+Leg Linkage Mechanism,orange-acrylic,Orange Acrylic,1,Tilt this at an angle in the slicer if you want to 3d print this,,,,,
+Body Construction,lcd-screen,LCD Screen,1,1.47 inch,https://s.click.aliexpress.com/e/_c3nRMT8R,https://geni.us/CAwIn,,,https://s.click.aliexpress.com/e/_c3nRMT8R | https://geni.us/CAwIn
+Body Construction,dc-to-dc-buck-converter-3a,DC to DC (buck) converter 3A,1,For fans,https://s.click.aliexpress.com/e/_c4nTjYQB,https://geni.us/c3gAkvd,,,https://s.click.aliexpress.com/e/_c4nTjYQB | https://geni.us/c3gAkvd
+Body Construction,emergency-stop-switch,Emergency Stop Switch,1,3a at 12-220V rated,https://s.click.aliexpress.com/e/_c4p5MQQr,https://geni.us/TkuUP,,,https://s.click.aliexpress.com/e/_c4p5MQQr | https://geni.us/TkuUP
+Body Construction,32gb-microsd-card,32GB MicroSD card,1,32GB is maximum Pi supports,https://s.click.aliexpress.com/e/_c4Vsk2D9,https://geni.us/dKVzS49,,,https://s.click.aliexpress.com/e/_c4Vsk2D9 | https://geni.us/dKVzS49
+Computing,bearing,Bearing,4,6705-2RS 25X32X4,https://s.click.aliexpress.com/e/_c4qqMrGR,https://geni.us/AmOzp,,,https://s.click.aliexpress.com/e/_c4qqMrGR | https://geni.us/AmOzp
+Computing,thrust-bearings-legs,Thrust Bearings (legs),1,F4-10M 4x10x4mm,https://s.click.aliexpress.com/e/_c4LuEC4L,https://geni.us/sMGxk4,,,https://s.click.aliexpress.com/e/_c4LuEC4L | https://geni.us/sMGxk4
+Computing,bearing-2,Bearing,20,684ZZ Mini Deep Groove Ball Bearing 4x9x4mm,https://s.click.aliexpress.com/e/_c4lVCOIX,https://geni.us/zvnXU,,,https://s.click.aliexpress.com/e/_c4lVCOIX | https://geni.us/zvnXU
+Computing,servo-horns,Servo horns,4,RC Car Steering Servo Horn Arm 25T Teeth Long,https://s.click.aliexpress.com/e/_c3qWmlYf,https://geni.us/KN5c9Mg,,,https://s.click.aliexpress.com/e/_c3qWmlYf | https://geni.us/KN5c9Mg
+Computing,dc-to-dc-buck-converter-4a,DC to DC (Buck) converter 4A,1,For all components except servos and fans,https://s.click.aliexpress.com/e/_c3Y7poIB,https://geni.us/JgfAO4C,,,https://s.click.aliexpress.com/e/_c3Y7poIB | https://geni.us/JgfAO4C
+Computing,rasbpi-cooling-system,RasbPi Cooling System,1,,https://s.click.aliexpress.com/e/_c4VTyh0n,https://geni.us/PANnd,,,https://s.click.aliexpress.com/e/_c4VTyh0n | https://geni.us/PANnd
+Computing,arduino-nano-breakout-board,Arduino Nano Breakout Board,1,,https://s.click.aliexpress.com/e/_c4dG8Y8L,https://geni.us/PcfeRm2,,,https://s.click.aliexpress.com/e/_c4dG8Y8L | https://geni.us/PcfeRm2
+Power Supply and Management,terminal-blocks,Terminal Blocks,8,1935776,https://s.click.aliexpress.com/e/_c4pZ8KUj,https://geni.us/jVKo7C,,,https://s.click.aliexpress.com/e/_c4pZ8KUj | https://geni.us/jVKo7C
+Power Supply and Management,heatsinks,Heatsinks,4,"6mm, black. Cut in half for each leg motor",https://s.click.aliexpress.com/e/_c3aKP3CR,https://geni.us/lxJBOw,,,https://s.click.aliexpress.com/e/_c3aKP3CR | https://geni.us/lxJBOw
+Power Supply and Management,gpio-cable,GPIO Cable,1,To connect Pi to its breakout board,https://s.click.aliexpress.com/e/_c4avRRfl,https://geni.us/EjrSRtX,,,https://s.click.aliexpress.com/e/_c4avRRfl | https://geni.us/EjrSRtX
+Power Supply and Management,servo-discs,Servo Discs,10,with screws.,https://s.click.aliexpress.com/e/_c3ajtifh,https://geni.us/ZDgXW,,,https://s.click.aliexpress.com/e/_c3ajtifh | https://geni.us/ZDgXW
+PCB Parts,magnets,Magnets,8,Used to hold fans in place,https://s.click.aliexpress.com/e/_c4PVNdwL,https://geni.us/OPu9pBg,,,https://s.click.aliexpress.com/e/_c4PVNdwL | https://geni.us/OPu9pBg
+PCB Parts,rod-ends-long,"Rod ends,Long",4,S 3mm L30mm M3,https://s.click.aliexpress.com/e/_c4BWGoqR,https://geni.us/DR5Z7v,,,https://s.click.aliexpress.com/e/_c4BWGoqR | https://geni.us/DR5Z7v
+PCB Parts,rod-long,Rod long,4,90mm long (cut if needed),https://s.click.aliexpress.com/e/_c3NNQAiP,,,,https://s.click.aliexpress.com/e/_c3NNQAiP
+PCB Parts,rod-ends-short,Rod ends Short,4,N 3mm L20mm M3,https://s.click.aliexpress.com/e/_c4BWGoqR,https://geni.us/BkDvnH,,,https://s.click.aliexpress.com/e/_c4BWGoqR | https://geni.us/BkDvnH
+PCB Parts,rod-short,Rod short,2,16mm long (cut if needed),https://s.click.aliexpress.com/e/_c3NNQAiP,,,,https://s.click.aliexpress.com/e/_c3NNQAiP
+PCB Parts,logic-level-converter,Logic Level Converter,1,For adjusting voltage between the pi and the nano,https://s.click.aliexpress.com/e/_c2wzgmJt,https://geni.us/3TiJfB,,,https://s.click.aliexpress.com/e/_c2wzgmJt | https://geni.us/3TiJfB
+PCB Parts,m3-threaded-inserts,M3 threaded inserts,1,"Pack of 100, M3xD4.6xL4.0",https://s.click.aliexpress.com/e/_c3t5s4td,https://geni.us/9sAZlUn,,,https://s.click.aliexpress.com/e/_c3t5s4td | https://geni.us/9sAZlUn
+PCB Parts,xt60h-connector,XT60H Connector,1,To connect LiPo to the robot,https://s.click.aliexpress.com/e/_c3piOj51,https://geni.us/aVZdcGf,,,https://s.click.aliexpress.com/e/_c3piOj51 | https://geni.us/aVZdcGf
+PCB Parts,on-off-switch,On/off Switch,1,20A at 14VDC rated,https://s.click.aliexpress.com/e/_c2x5Xvx9,https://geni.us/dgsSxN,,,https://s.click.aliexpress.com/e/_c2x5Xvx9 | https://geni.us/dgsSxN
+PCB Parts,spring,Spring,1,For battery latch mechanism. 35mm long x 7mm OD,https://s.click.aliexpress.com/e/_c38DYmvz,https://geni.us/t9JlB,,,https://s.click.aliexpress.com/e/_c38DYmvz | https://geni.us/t9JlB
+Electrical,male-connector-for-peripherals,Male Connector (for peripherals),12,B2B-PH-K-S(LF)(SN),https://s.click.aliexpress.com/e/_c3eOJxcB,https://geni.us/g3jfpk7,,,https://s.click.aliexpress.com/e/_c3eOJxcB | https://geni.us/g3jfpk7
+Electrical,digital-voltmeter,Digital Voltmeter,1,"DC 2.5-30V, used to measure battery voltage",https://s.click.aliexpress.com/e/_c3UuRXlD,https://geni.us/mbArXwk,,,https://s.click.aliexpress.com/e/_c3UuRXlD | https://geni.us/mbArXwk
+Electrical,socket-for-connectors,Socket for Connectors,25,SPH-002T-P0.5S,https://s.click.aliexpress.com/e/_c4XMd4bp,https://geni.us/FWRkK,,,https://s.click.aliexpress.com/e/_c4XMd4bp | https://geni.us/FWRkK
+Electrical,threaded-rods-long,"Threaded rods, long",5,M3 x 110mm,https://s.click.aliexpress.com/e/_c4UsQtab,https://geni.us/M8sIZIp,,,https://s.click.aliexpress.com/e/_c4UsQtab | https://geni.us/M8sIZIp
+Electrical,female-connector-for-peripherals,Female Connector (for peripherals),12,PHR-2,https://s.click.aliexpress.com/e/_c3AkcVdD,https://geni.us/Auyl1wR,,,https://s.click.aliexpress.com/e/_c3AkcVdD | https://geni.us/Auyl1wR
+Electrical,capacitor,Capacitor,1,"2200uF 16VDC Electrolytic RB Capacitor ,For servo board",https://s.click.aliexpress.com/e/_c4N6hXdZ,https://geni.us/Hxr7KrE,,,https://s.click.aliexpress.com/e/_c4N6hXdZ | https://geni.us/Hxr7KrE
+Electrical,threaded-rods-short,"Threaded rods,short",5,M3 x 25mm,https://s.click.aliexpress.com/e/_c4ohc7TN,https://geni.us/IXWZiC0,,,https://s.click.aliexpress.com/e/_c4ohc7TN | https://geni.us/IXWZiC0
+Electrical,reverse-polarity-protection-diode,Reverse Polarity Protection Diode,1,B160-13-F,https://s.click.aliexpress.com/e/_c3GnIKbp,https://geni.us/2JNVK,,,https://s.click.aliexpress.com/e/_c3GnIKbp | https://geni.us/2JNVK
+Electrical,47k-resistor,47k Resistor,1,CRGCQ1206F47K,https://s.click.aliexpress.com/e/_c4c1Cx8n,https://geni.us/wGvVe,,,https://s.click.aliexpress.com/e/_c4c1Cx8n | https://geni.us/wGvVe
+Misc,10k-resistor,10k resistor,1,CRGCQ0805F10K,https://s.click.aliexpress.com/e/_c4c1Cx8n,https://geni.us/aShan4,,,https://s.click.aliexpress.com/e/_c4c1Cx8n | https://geni.us/aShan4
+Misc,ps4-controller,PS4 Controller,1,,https://s.click.aliexpress.com/e/_c4CvwWxp,https://geni.us/XiW4,,,https://s.click.aliexpress.com/e/_c4CvwWxp | https://geni.us/XiW4
+Misc,power-delivery-wire,Power Delivery Wire,-,"Minimum 12AWG, for wires expected to carry current above 2A and/or voltage above 5V",https://s.click.aliexpress.com/e/_c3XeHXW7,https://geni.us/XebB,,,https://s.click.aliexpress.com/e/_c3XeHXW7 | https://geni.us/XebB
+Misc,connection-wire,Connection Wire,-,"22-30AWG, recommend solid core, used for all other wires",https://s.click.aliexpress.com/e/_c3XeHXW7,https://geni.us/BbErE,,,https://s.click.aliexpress.com/e/_c3XeHXW7 | https://geni.us/BbErE
+Misc,ferrules,Ferrules,-,"Optional, if used need approx 20 across robot",https://s.click.aliexpress.com/e/_c4b0JD7N,https://geni.us/uW3lDP,,,https://s.click.aliexpress.com/e/_c4b0JD7N | https://geni.us/uW3lDP
+Misc,heat-shrink,Heat Shrink,-,"Only small amount required, for covering exposed solid-core wires",https://s.click.aliexpress.com/e/_c30Kx0Xt,https://geni.us/QeW8,,,https://s.click.aliexpress.com/e/_c30Kx0Xt | https://geni.us/QeW8
+Misc,100k-resistors,100k resistors,-,For dividing the voltage at the buck converter so that it is readable by the nano,https://s.click.aliexpress.com/e/_c3fDqW83,https://geni.us/CDzFOW,,,https://s.click.aliexpress.com/e/_c3fDqW83 | https://geni.us/CDzFOW
+Misc,m3-nuts,M3 Nuts,-,,https://s.click.aliexpress.com/e/_c3HQLb9v,https://geni.us/dmXnT,,,https://s.click.aliexpress.com/e/_c3HQLb9v | https://geni.us/dmXnT
+Misc,m3-bolts,M3 Bolts,-,,https://s.click.aliexpress.com/e/_c3i5gzGJ,https://geni.us/HkHYUQI,,,https://s.click.aliexpress.com/e/_c3i5gzGJ | https://geni.us/HkHYUQI
+Filaments,black-abs-asa-petg-pc-filament,Black ABS/ASA/PETG&PC Filament,-,Approx 500g required,https://s.click.aliexpress.com/e/_c2u7dF8J,https://geni.us/gAhsy,,,https://s.click.aliexpress.com/e/_c2u7dF8J | https://geni.us/gAhsy
+Filaments,yellow-abs-asa-petg-pc-filament,Yellow ABS/ASA/PETG&PC Filament,-,Approx 500g required,https://s.click.aliexpress.com/e/_c4sIjv6L,https://geni.us/iEIj,,,https://s.click.aliexpress.com/e/_c4sIjv6L | https://geni.us/iEIj
+Filaments,black-pla-filament,Black PLA Filament,-,Approx 750g required (includes 500g for the stand),https://s.click.aliexpress.com/e/_c2QdFuwn,https://geni.us/m7Fcy3W,,,https://s.click.aliexpress.com/e/_c2QdFuwn | https://geni.us/m7Fcy3W
+Filaments,white-tpu-filament,White TPU Filament,-,"Approx 50g required, for feet",https://s.click.aliexpress.com/e/_c3HBKl3V,https://geni.us/XPB98,,,https://s.click.aliexpress.com/e/_c3HBKl3V | https://geni.us/XPB98
+Tools,crimp-tool,Crimp Tool,1,,https://s.click.aliexpress.com/e/_c4VtpJeL,https://geni.us/RH6Ac9,,,https://s.click.aliexpress.com/e/_c4VtpJeL | https://geni.us/RH6Ac9
+Tools,hex-key-set,Hex Key set,1,,https://s.click.aliexpress.com/e/_c3rvP1lh,https://geni.us/BufZGm,,,https://s.click.aliexpress.com/e/_c3rvP1lh | https://geni.us/BufZGm
+Tools,soldering-iron,Soldering Iron,1,,https://s.click.aliexpress.com/e/_c4sOxkox,https://geni.us/Drzhe7o,,,https://s.click.aliexpress.com/e/_c4sOxkox | https://geni.us/Drzhe7o
+Tools,wire-cutter,Wire cutter,1,,https://s.click.aliexpress.com/e/_c2yogYf1,https://geni.us/TFzOR4,,,https://s.click.aliexpress.com/e/_c2yogYf1 | https://geni.us/TFzOR4
+Tools,wire-stripper,Wire stripper,1,,,https://geni.us/SvNtLpP,,,https://geni.us/SvNtLpP
+Tools,precision-screwdriver-set,Precision Screwdriver Set,1,,https://s.click.aliexpress.com/e/_c3bHpwH9,https://geni.us/Kk4tgSV,,,https://s.click.aliexpress.com/e/_c3bHpwH9 | https://geni.us/Kk4tgSV
+Tools,heat-insert-set,Heat insert set,1,,https://s.click.aliexpress.com/e/_c4PpqBn5,https://geni.us/v1c6n,,,https://s.click.aliexpress.com/e/_c4PpqBn5 | https://geni.us/v1c6n
+Tools,heat-insert-tip-set,Heat insert tip - set,1,,https://s.click.aliexpress.com/e/_c4V88eu7,https://geni.us/AiMMC,,,https://s.click.aliexpress.com/e/_c4V88eu7 | https://geni.us/AiMMC
+Tools,soldering-iron-ts101,Soldering Iron TS101,1,,https://s.click.aliexpress.com/e/_c2QmV6QP,https://geni.us/rPNNHLD,,,https://s.click.aliexpress.com/e/_c2QmV6QP | https://geni.us/rPNNHLD
+3D printed components,0001-0100-quadrupedtom,0001-0100 - QuadrupedTom,1,,,,,,
+3D printed components,0101-bottomstructuralsupport,0101 - BottomStructuralSupport,1,,,,,,
+3D printed components,0001-0102-topcover,0001-0102 - TopCover,1,,,,,,
+3D printed components,0001-0103-front-cover,0001-0103 - Front Cover,1,,,,,,
+3D printed components,0001-0104-frontstructuralsupport,0001-0104 - FrontStructuralSupport,1,1,,,,,
+3D printed components,0001-0105-topstructuralsupport,0001-0105 - TopStructuralSupport,1,,,,,,
+3D printed components,0001-0106-rearstructuralsupport,0001-0106 - RearStructuralSupport,1,,,,,,
+3D printed components,0001-0107-lcdbracket,0001-0107 - LCDbracket,1,,,,,,
+3D printed components,0001-0108-backcover,0001-0108 - BackCover,1,,,,,,
+3D printed components,0001-0109-stand-optional,0001-0109 - Stand (Optional),1,,,,,,
+3D printed components,0001-0110-rearleftfanbracket,0001-0110 - RearLeftFanBracket,1,,,,,,
+3D printed components,0001-0111-rearrightfanbracket,0001-0111 - RearRightFanBracket,1,,,,,,
+3D printed components,0001-0112-frontleftfanbracket,0001-0112 - FrontLeftFanBracket,1,,,,,,
+3D printed components,0001-0113-frontrightfanbracket,0001-0113 - FrontRightFanBracket,1,,,,,,
+3D printed components,0001-0114-fanhousingbracket,0001-0114 - FanHousingBracket,1,,,,,,
+3D printed components,0001-0115-rightservohousing,0001-0115 - RightServoHousing,1,,,,,,
+3D printed components,0001-0116-leftservohousing,0001-0116 - LeftServoHousing,1,,,,,,
+3D printed components,0001-0117-middlebracketleftsupport,0001-0117 - MiddleBracketLeftSupport,1,,,,,,
+3D printed components,0001-0118-middlebracketrightsupport,0001-0118 - MiddleBracketRightSupport,1,,,,,,
+3D printed components,0001-0119-middlebracket,0001-0119 - MiddleBracket,1,,,,,,
+3D printed components,0001-0120-imu-buck-bracket,0001-0120 - IMU_Buck_Bracket,1,,,,,,
+3D printed components,0001-0201-rightsidecover,0001-0201 - RightSideCover,1,,,,,,
+3D printed components,0001-0301-leftsidecover,0001-0301 - LeftSideCover,1,,,,,,
+3D printed components,0001-0401-batterycover,0001-0401 - BatteryCover,1,,,,,,
+3D printed components,0001-0402-batterylactch,0001-0402 - BatteryLactch,1,,,,,,
+3D printed components,0001-0403-batterysupport,0001-0403 - BatterySupport,1,,,,,,
+3D printed components,0001-0404-batteryflaprodsupport,0001-0404 - BatteryFlapRodSupport,1,,,,,,
+3D printed components,0001-0501-rightupperleg,0001-0501 - RightUpperLeg,1,,,,,,
+3D printed components,0001-0502-rightlowerleg,0001-0502 - RightLowerLeg,1,,,,,,
+3D printed components,0001-0503-rightservocam,0001-0503 - RightServoCam,1,,,,,,
+3D printed components,0001-0504-foot,0001-0504 - Foot,1,,,,,,
+3D printed components,0001-0505-servowasher,0001-0505 - ServoWasher,1,,,,,,
+3D printed components,0001-0601-leftupperleg,0001-0601 - LeftUpperLeg,1,,,,,,
+3D printed components,0001-0602-leftlowerleg,0001-0602 - LeftLowerLeg,1,,,,,,
+3D printed components,0001-0603-leftservocam,0001-0603 - LeftServoCam,1,,,,,,
