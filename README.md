@@ -128,3 +128,7 @@ Issues and PRs welcome — especially:
 - InvenSense — MPU6050 DMP motion driver (vendored under `SourceCode/MDK-ARM/USER/DMP/`).
 - HiWonder/Lobot — LX-224 servo bus protocol.
 - The Printables club at <https://www.printables.com/model/1443108> for build files and discussion.
+
+## Build resources
+
+- [Bill of Material](https://toolknox.github.io/HexaPod-RC-Controlled/bill-of-material.html)
