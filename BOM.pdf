@@ -4,7 +4,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [10 0 R 38 0 R 45 0 R 64 0 R 75 0 R 105 0 R] /Count 6 >>
+<< /Type /Pages /Kids [10 0 R 38 0 R 45 0 R 64 0 R 75 0 R 106 0 R] /Count 6 >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
@@ -89,7 +89,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [7 0 R 8 0 R 9 0 R] /Contents 6 0 R >>
 endobj
 11 0 obj
-<< /Length 17251 >>
+<< /Length 16943 >>
 stream
 0.0400 0.0400 0.0400 rg
 0.0800 0.0900 0.1100 RG
@@ -225,14 +225,10 @@ BT /F1 8.50 Tf 48.75 379.28 Td (>>) Tj ET
 BT /F1 9.00 Tf 74.00 379.28 Td (WeAct Studio STM32H750) Tj ET
 0.0800 0.0900 0.1100 rg
 BT /F2 9.00 Tf 406.75 379.28 Td (1) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 452.50 379.28 Td (AliExpress Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 452.50 377.78 m 515.50 377.78 l S
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 570.90 379.28 Td (Amazon Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 570.90 377.78 m 617.10 377.78 l S
+0.7000 0.7000 0.7000 rg
+BT /F1 9.00 Tf 481.75 379.28 Td (-) Tj ET
+0.7000 0.7000 0.7000 rg
+BT /F1 9.00 Tf 591.75 379.28 Td (-) Tj ET
 0.3000 0.3000 0.3000 rg
 BT /F3 8.00 Tf 656.00 380.28 Td (Official main card \(expensive\)) Tj ET
 0.9650 0.9700 0.9750 rg
@@ -471,14 +467,10 @@ BT /F1 8.50 Tf 48.75 170.28 Td (>>) Tj ET
 BT /F1 9.00 Tf 74.00 170.28 Td (Misc) Tj ET
 0.0800 0.0900 0.1100 rg
 BT /F2 9.00 Tf 406.75 170.28 Td (1) Tj ET
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 452.50 170.28 Td (AliExpress Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 452.50 168.78 m 515.50 168.78 l S
-0.0000 0.2700 0.6200 rg
-BT /F1 8.40 Tf 570.90 170.28 Td (Amazon Link) Tj ET
-0.0000 0.2700 0.6200 RG
-0.45 w 570.90 168.78 m 617.10 168.78 l S
+0.7000 0.7000 0.7000 rg
+BT /F1 9.00 Tf 481.75 170.28 Td (-) Tj ET
+0.7000 0.7000 0.7000 rg
+BT /F1 9.00 Tf 591.75 170.28 Td (-) Tj ET
 0.3000 0.3000 0.3000 rg
 BT /F3 8.00 Tf 656.00 171.28 Td (-) Tj ET
 0.9650 0.9700 0.9750 rg
@@ -1936,49 +1928,52 @@ endobj
 << /Type /Annot /Subtype /Link /Rect [544.00 307.28 644.00 325.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/ckKSnm) >> >>
 endobj
 92 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 285.28 644.00 303.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/SvNtLpP) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 285.28 534.00 303.28] /Border [0 0 0] /A << /S /URI /URI (https://www.aliexpress.com/wholesale?searchtext=Wire+stripper+Recommended+Tools+wire-stripper&shipTo=US&SortType=total_tranpro_desc&shipFromCountry=CN&g=y) >> >>
 endobj
 93 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 263.28 534.00 281.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c2yogYf1) >> >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 285.28 644.00 303.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/SvNtLpP) >> >>
 endobj
 94 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 263.28 644.00 281.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/TFzOR4) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 263.28 534.00 281.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c2yogYf1) >> >>
 endobj
 95 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 241.28 534.00 259.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c3ljOLkX) >> >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 263.28 644.00 281.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/TFzOR4) >> >>
 endobj
 96 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 241.28 644.00 259.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/g0yu0) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 241.28 534.00 259.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c3ljOLkX) >> >>
 endobj
 97 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 219.28 534.00 237.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c4VtpJeL) >> >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 241.28 644.00 259.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/g0yu0) >> >>
 endobj
 98 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 219.28 644.00 237.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/RH6Ac9) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 219.28 534.00 237.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c4VtpJeL) >> >>
 endobj
 99 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 197.28 534.00 215.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c4sOxkox) >> >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 219.28 644.00 237.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/RH6Ac9) >> >>
 endobj
 100 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 197.28 644.00 215.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/Drzhe7o) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 197.28 534.00 215.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c4sOxkox) >> >>
 endobj
 101 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 175.28 534.00 193.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c4V88eu7) >> >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 197.28 644.00 215.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/Drzhe7o) >> >>
 endobj
 102 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 175.28 644.00 193.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/aAqQH) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 175.28 534.00 193.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c4V88eu7) >> >>
 endobj
 103 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 153.28 534.00 171.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c3bHpwH9) >> >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 175.28 644.00 193.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/aAqQH) >> >>
 endobj
 104 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 153.28 644.00 171.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/Kk4tgSV) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 153.28 534.00 171.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/e/_c3bHpwH9) >> >>
 endobj
 105 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R] /Contents 76 0 R >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 153.28 644.00 171.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/Kk4tgSV) >> >>
+endobj
+106 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R] /Contents 76 0 R >>
 endobj
 xref
-0 106
+0 107
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
@@ -1991,102 +1986,103 @@ xref
 0000002937 00000 n 
 0000003103 00000 n 
 0000003284 00000 n 
-0000020589 00000 n 
-0000020778 00000 n 
-0000020974 00000 n 
-0000021143 00000 n 
-0000021291 00000 n 
-0000021460 00000 n 
-0000021608 00000 n 
-0000021777 00000 n 
-0000021925 00000 n 
-0000022094 00000 n 
-0000022242 00000 n 
-0000022411 00000 n 
-0000022561 00000 n 
-0000022730 00000 n 
-0000022877 00000 n 
-0000023046 00000 n 
-0000023196 00000 n 
-0000023365 00000 n 
-0000023513 00000 n 
-0000023682 00000 n 
-0000023831 00000 n 
-0000024000 00000 n 
-0000024147 00000 n 
-0000024315 00000 n 
-0000024463 00000 n 
-0000024630 00000 n 
-0000024775 00000 n 
-0000025121 00000 n 
-0000029242 00000 n 
-0000029431 00000 n 
-0000029600 00000 n 
-0000029747 00000 n 
-0000029916 00000 n 
-0000030064 00000 n 
-0000030263 00000 n 
-0000040116 00000 n 
-0000040305 00000 n 
-0000040474 00000 n 
-0000040623 00000 n 
-0000040792 00000 n 
-0000040940 00000 n 
-0000041109 00000 n 
-0000041257 00000 n 
-0000041426 00000 n 
-0000041575 00000 n 
-0000041744 00000 n 
-0000041894 00000 n 
-0000042063 00000 n 
-0000042212 00000 n 
-0000042381 00000 n 
-0000042530 00000 n 
-0000042699 00000 n 
-0000042846 00000 n 
-0000043129 00000 n 
-0000049011 00000 n 
-0000049200 00000 n 
-0000049369 00000 n 
-0000049518 00000 n 
-0000049687 00000 n 
-0000049835 00000 n 
-0000050004 00000 n 
-0000050154 00000 n 
-0000050323 00000 n 
-0000050472 00000 n 
-0000050699 00000 n 
-0000066732 00000 n 
-0000066921 00000 n 
-0000067090 00000 n 
-0000067240 00000 n 
-0000067409 00000 n 
-0000067559 00000 n 
-0000067728 00000 n 
-0000067878 00000 n 
-0000068047 00000 n 
-0000068196 00000 n 
-0000068365 00000 n 
-0000068512 00000 n 
-0000068681 00000 n 
-0000068830 00000 n 
-0000068999 00000 n 
-0000069148 00000 n 
-0000069298 00000 n 
-0000069467 00000 n 
-0000069616 00000 n 
-0000069785 00000 n 
-0000069933 00000 n 
-0000070102 00000 n 
-0000070251 00000 n 
-0000070420 00000 n 
-0000070571 00000 n 
-0000070741 00000 n 
-0000070890 00000 n 
-0000071060 00000 n 
-0000071211 00000 n 
+0000020281 00000 n 
+0000020470 00000 n 
+0000020666 00000 n 
+0000020835 00000 n 
+0000020983 00000 n 
+0000021152 00000 n 
+0000021300 00000 n 
+0000021469 00000 n 
+0000021617 00000 n 
+0000021786 00000 n 
+0000021934 00000 n 
+0000022103 00000 n 
+0000022253 00000 n 
+0000022422 00000 n 
+0000022569 00000 n 
+0000022738 00000 n 
+0000022888 00000 n 
+0000023057 00000 n 
+0000023205 00000 n 
+0000023374 00000 n 
+0000023523 00000 n 
+0000023692 00000 n 
+0000023839 00000 n 
+0000024007 00000 n 
+0000024155 00000 n 
+0000024322 00000 n 
+0000024467 00000 n 
+0000024813 00000 n 
+0000028934 00000 n 
+0000029123 00000 n 
+0000029292 00000 n 
+0000029439 00000 n 
+0000029608 00000 n 
+0000029756 00000 n 
+0000029955 00000 n 
+0000039808 00000 n 
+0000039997 00000 n 
+0000040166 00000 n 
+0000040315 00000 n 
+0000040484 00000 n 
+0000040632 00000 n 
+0000040801 00000 n 
+0000040949 00000 n 
+0000041118 00000 n 
+0000041267 00000 n 
+0000041436 00000 n 
+0000041586 00000 n 
+0000041755 00000 n 
+0000041904 00000 n 
+0000042073 00000 n 
+0000042222 00000 n 
+0000042391 00000 n 
+0000042538 00000 n 
+0000042821 00000 n 
+0000048703 00000 n 
+0000048892 00000 n 
+0000049061 00000 n 
+0000049210 00000 n 
+0000049379 00000 n 
+0000049527 00000 n 
+0000049696 00000 n 
+0000049846 00000 n 
+0000050015 00000 n 
+0000050164 00000 n 
+0000050391 00000 n 
+0000066424 00000 n 
+0000066613 00000 n 
+0000066782 00000 n 
+0000066932 00000 n 
+0000067101 00000 n 
+0000067251 00000 n 
+0000067420 00000 n 
+0000067570 00000 n 
+0000067739 00000 n 
+0000067888 00000 n 
+0000068057 00000 n 
+0000068204 00000 n 
+0000068373 00000 n 
+0000068522 00000 n 
+0000068691 00000 n 
+0000068840 00000 n 
+0000069121 00000 n 
+0000069271 00000 n 
+0000069440 00000 n 
+0000069589 00000 n 
+0000069758 00000 n 
+0000069906 00000 n 
+0000070075 00000 n 
+0000070224 00000 n 
+0000070394 00000 n 
+0000070545 00000 n 
+0000070715 00000 n 
+0000070864 00000 n 
+0000071034 00000 n 
+0000071185 00000 n 
 trailer
-<< /Size 106 /Root 1 0 R >>
+<< /Size 107 /Root 1 0 R >>
 startxref
-71577
+71559
 %%EOF
