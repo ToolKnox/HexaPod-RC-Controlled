@@ -132,3 +132,8 @@ Issues and PRs welcome — especially:
 ## Build resources
 
 - [Bill of Material](https://toolknox.github.io/HexaPod-RC-Controlled/bill-of-material.html)
+
+## Bill of Material
+
+[Bill of Material (PDF)](BOM.pdf): every part to buy, with shop links.
+
